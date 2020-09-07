@@ -9,7 +9,7 @@
       $credit = 1000; 
     
       echo "<h1>Welcome to ".$name."!</h1>";
-      echo "<h2>You have $".$credit." in your wallet.</h2>";
+      echo "<h2>You have $".$credit." in your x wallet.</h2>";
     
       $products['Computer']=750;
       $products['Car']=15000;
